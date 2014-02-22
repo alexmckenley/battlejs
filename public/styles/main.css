@@ -33,7 +33,7 @@ a {
   margin: 0;
   /*position: absolute;*/
   top: 20px;
-  bottom: 20px;
+  height: 300px;
 /*  left: 20px;
   right: 55%;*/
 }
@@ -43,6 +43,7 @@ a {
   /*position: absolute;*/
   top: 20px;
   bottom: 20px; 
+  height: 300px;
 /*  left: 55%;
   right: 20px;*/
 }
@@ -87,26 +88,4 @@ a {
 
 .navbar{
   border-radius: 0;
-}
-
-.view{
-  top: 55px ;
-  position: absolute;
-  bottom:10px;
-}
-
-.full-row{
-  height: 100%;
-  width: 100%;
-}
-
-.topRow{
-  top: 20px;
-  position: absolute;
-  bottom: 0;
-}
-
-.full{
-  top: 20px;
-  bottom: 0;
 }
